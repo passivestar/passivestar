@@ -7,3 +7,6 @@
 ### Unity
 
 - [Visual Scripting Prompt](https://github.com/passivestar/visualscriptingprompt)
+- [Quick Actions](https://github.com/passivestar/quickactions)
+- [Import Hints](https://github.com/passivestar/importhints)
+- [Util Units](https://github.com/passivestar/utilunits)
