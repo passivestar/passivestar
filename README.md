@@ -6,4 +6,5 @@
 
 ### Unity
 
+- [Essential Utils](https://github.com/passivestar/essentialutils)
 - [Import Hints](https://github.com/passivestar/importhints)
