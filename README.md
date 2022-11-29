@@ -7,6 +7,4 @@
 ### Unity
 
 - [Essential Utils](https://github.com/passivestar/essentialutils)
-- [Import Hints](https://github.com/passivestar/importhints)
-- [Import Animations](https://github.com/passivestar/importanimations)
-- [Import Metallic-Smoothness](https://github.com/passivestar/importmetallicsmoothness)
+- [Better Import](https://github.com/passivestar/betterimport)
