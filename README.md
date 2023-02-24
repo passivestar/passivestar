@@ -6,5 +6,6 @@
 
 ### Unity
 
+- [First Person Controller](https://github.com/passivestar/firstpersoncontroller)
 - [Essential Utils](https://github.com/passivestar/essentialutils)
 - [Better Import](https://github.com/passivestar/betterimport)
