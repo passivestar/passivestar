@@ -4,7 +4,6 @@
 - [Substance Tools](https://github.com/passivestar/substance-tools)
 - [Driver Functions](https://github.com/passivestar/driverfunctions)
 
-### Unity
+### Godot
 
-- [First Person Controller](https://github.com/passivestar/firstpersoncontroller)
-- [Better Import](https://github.com/passivestar/betterimport)
+- [Minimal Editor Theme](https://github.com/passivestar/godot-minimal-theme)
