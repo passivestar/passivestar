@@ -1,2 +1,1 @@
-- [Blender Quick Menu](https://github.com/passivestar/quickmenu)
-- [Godot Minimal Editor Theme](https://github.com/passivestar/godot-minimal-theme)
+Hi 👋
